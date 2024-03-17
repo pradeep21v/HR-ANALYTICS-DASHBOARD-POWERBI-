@@ -1,1 +1,1 @@
-# HR-ANALYTICS-DASHBOARD-POWERBI-
+I have developed a project focusing on analyzing the attrition rate within the company, aiming to uncover the underlying reasons behind employee leaving the company. The insights derived from the data, presented in a dashboard format, can assist our HR department in identifying areas of concern and implementing proactive measures to mitigate employee departures.
